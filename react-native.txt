@@ -1,0 +1,4 @@
+react native
+
+* react native에서 flex direction default는 column이다
+* view = div 같은 것
